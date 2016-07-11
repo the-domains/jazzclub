@@ -6,9 +6,9 @@ color:
   saturation: 0.9448292076122016
   rhythmicContrast: 0.20884966547600925
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: JazzClub
