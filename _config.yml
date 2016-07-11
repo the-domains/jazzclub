@@ -1,0 +1,14 @@
+layout_spectrum: 0.32615750655531883
+typography_spectrum: 0.7437010805588216
+color:
+  brandStrength: 0.9668364264070988
+  lightness: 0.10248220432549715
+  saturation: 0.9448292076122016
+  rhythmicContrast: 0.20884966547600925
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: JazzClub
